@@ -1,7 +1,7 @@
 # GottaCatchEm
 This is  a pygame game project like space invaders game. In this game we try to catch pokemons using pokeballs and respective Score is also shown.
 
-#Youtube Video Link
+# Youtube Video Link
 https://youtu.be/F-DdTSXJhyY
 
 #  Starting Images 
